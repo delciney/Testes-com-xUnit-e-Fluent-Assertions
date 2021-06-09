@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alturas", "Alturas.csproj", "{26C650F3-A409-4E03-8A66-413B0DBC3A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alturas.Testes", "..\Alturas.Testes\Alturas.Testes.csproj", "{86007260-BA5B-4A1C-AF54-9C0D06EB911C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C650F3-A409-4E03-8A66-413B0DBC3A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C650F3-A409-4E03-8A66-413B0DBC3A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C650F3-A409-4E03-8A66-413B0DBC3A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C650F3-A409-4E03-8A66-413B0DBC3A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86007260-BA5B-4A1C-AF54-9C0D06EB911C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86007260-BA5B-4A1C-AF54-9C0D06EB911C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86007260-BA5B-4A1C-AF54-9C0D06EB911C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86007260-BA5B-4A1C-AF54-9C0D06EB911C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BDA26A-9C56-4A56-B1EE-2891B1151ECC}
+	EndGlobalSection
+EndGlobal
